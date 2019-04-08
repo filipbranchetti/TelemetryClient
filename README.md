@@ -3,7 +3,7 @@ An easy tool for logging to Application insight
 
 ## What is the MigrationManager project?
 ```
-PM> Install-Package fb.TelemetryClient -Version 1.0.0
+PM> Install-Package fb.TelemetryClient -Version 1.1.0
 ```
 
 TelemetryClient project is an service for handling traces to application insight.

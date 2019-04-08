@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>fb.TelemetryClient</id>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <title>TelemetryClient</title>
     <authors>Filip Branchetti</authors>
     <owners>Filip Branchetti</owners>
