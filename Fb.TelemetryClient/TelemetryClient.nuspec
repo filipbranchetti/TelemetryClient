@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>fb.TelemetryClient</id>
+    <version>1.0.0</version>
+    <title>TelemetryClient</title>
+    <authors>Filip Branchetti</authors>
+    <owners>Filip Branchetti</owners>
+    <licenseUrl>https://github.com/filipbranchetti/TelemetryClient/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/filipbranchetti/TelemetryClient</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An Client for easy logging to Application insight</description>
+    <releaseNotes>Added Client</releaseNotes>
+    <copyright>Copyright 2019</copyright>
+    <tags>TelemetryClient</tags>
+    <dependencies>
+      <dependency id="Microsoft.ApplicationInsights" version="2.9.1" />
+      <dependency id="System.Diagnostics.DiagnosticSource" version="4.5.0" />
+    </dependencies>
+  </metadata>
+</package>

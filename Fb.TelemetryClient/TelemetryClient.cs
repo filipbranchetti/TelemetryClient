@@ -18,7 +18,7 @@
 
         public TelemetryClient()
         {
-            _telemetryClient = new Microsoft.ApplicationInsights.TelemetryClient();
+            _telemetryClient = Initialize(TelemetryConfiguration.Active,"");
         }
         public TelemetryClient(string applicationInsightsKey, string sourceSystemName)
         {

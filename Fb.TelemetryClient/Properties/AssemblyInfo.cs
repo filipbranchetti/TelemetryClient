@@ -6,7 +6,7 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Fb.TelemetryClient")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Telemetric client for logging to application insight")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("Fb.TelemetryClient")]
